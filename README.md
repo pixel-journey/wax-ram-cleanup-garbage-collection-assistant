@@ -5,6 +5,8 @@
 
 8 bytes per field name plus the value size. One unsigned buyrambytes for the shortfall. No table is scanned.
 
+The course is [EDUCATION.md](./EDUCATION.md). `setrampayer` / `setlastpayer` are a different function, in `wax-atomicassets-v2-action-previews`. This file does not move a payer.
+
 The earlier README described a live product. This tree does not ship that.
 
 ## What is actually in the repo
