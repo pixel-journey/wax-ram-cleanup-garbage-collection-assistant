@@ -1,7 +1,7 @@
 # A byte estimate, not a scan
 
 **Trust label:** `educational-reference`  
-**Catalog:** [wax-ecosystem-blueprint-catalog](https://github.com/pixel-journey/wax-ecosystem-blueprint-catalog)
+**Catalog:** `wax-ecosystem-blueprint-catalog` (private index; not this public course)
 
 8 bytes per field name plus the value size. One unsigned buyrambytes for the shortfall. No table is scanned.
 
